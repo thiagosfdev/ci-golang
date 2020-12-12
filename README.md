@@ -11,7 +11,7 @@
     - Workflow in .github
     - GitHub Actions
     - Status Check
-    - Strategy Matri
+    - Strategy Matrix
     - Dockerfile
     - Build Image from CI
     - Automatic push
